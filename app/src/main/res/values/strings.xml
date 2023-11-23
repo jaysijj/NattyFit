@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">NattyFit</string>
+    <string name="titulo_calcular">O que você quer calcular?</string>
+    <string name="imc">IMC</string>
+    <string name="matab_basal">Taxa de Metabolismo Basal</string>
+    <string name="percen_gord">Percentual de Gordura</string>
+
+    <string name="imc_imc">Índice de Massa Corporal (IMC)</string>
+    <string name="peso_IMC">Digite o seu peso</string>
+    <string name="resultado_IMC">Resultado:</string>
+    <string name="altura_IMC">Digite a sua altura</string>
+    <string name="calcular_IMC">CALCULAR</string>
+    <string name="obesidadeIII_IMC">Obesidade Grau III (Mórbida)</string>
+    <string name="obesidadeII_IMC">Obesidade Grau II (severa)</string>
+    <string name="obesidadeI_IMC">Obesidade Grau I</string>
+    <string name="sobrepeso_IMC">Sobrepeso</string>
+    <string name="normal_IMC">Peso normal</string>
+    <string name="abaixoPeso_IMC">Abaixo do peso</string>
+    <string name="resultadoDo_IMC">Você está:</string>
+    <string name="alturaZero_IMC">Altura não pode ser zero.</string>
+    <string name="pesoAlturaInvalido_IMC">Peso ou altura inválidos.</string>
+    <string name="naoEncontrado_IMC">Erro: Alguma vista não encontrada.</string>
+
+
+    <string name="tmb_tmb">Taxa de Metabolismo Basal (TMB)</string>
+    <string name="tmb_inputpeso">Digite o seu peso (kg)</string>
+    <string name="tmb_inputAltura">Digite a sua altura (cm)</string>
+    <string name="tmb_inputIdade">Digite a sua idade</string>
+    <string name="tmb_inputResultado">Resultado:</string>
+    <string name="tmb_inputCalcular">CALCULAR</string>
+    <string name="tmb_Homem">Homem</string>
+    <string name="tmb_Mulher">Mulher</string>
+    <string name="inserirValorValido_TMB">Por favor, insira valores válidos</string>
+    <string name="erroInesperado_TMB">Ocorreu um erro inesperado</string>
+
+    <string name="titulo_percGordura">Percentual de Gordura</string>
+    <string name="button_PG">Verificar Dados</string>
+    <string name="nome_PG">Nome</string>
+    <string name="altura_PG">Altura (cm)</string>
+    <string name="pescoco_PG">Pescoço (cm)</string>
+    <string name="cintura_PG">Cintura (cm)</string>
+    <string name="quadril_PG">Quadril (cm)</string>
+    <string name="resultado_PG">Resultado:</string>
+    <string name="calcular_PG">CALCULAR</string>
+    <string name="percenGord_PG">Seu percentual de gordura é:</string>
+    <string name="muitoElevado_PG">Muito elevado</string>
+    <string name="elevado_PG">Elevado</string>
+    <string name="normal_PG">Normal</string>
+    <string name="bom_PG">Bom</string>
+    <string name="Atleta_PG">Atleta</string>
+    <string name="salvoSucesso_PG">Dados salvos com sucesso!</string>
+    <string name="erroSalvar_PG">Erro ao salvar os dados.</string>
+
+    <string name="titulo_listview">Dados do SQLite</string>
+
+    <string name="resultado_LI">Resultado:</string>
+    <string name="sexo_LI">Sexo:</string>
+    <string name="quadril_LI">Quadril:</string>
+    <string name="cintura_LI">Cintura:</string>
+    <string name="pescoco_LI">Pescoço:</string>
+    <string name="altura_LI">Altura:</string>
+    <string name="nomeUsuario_LI">Nome do Usuário</string>
+    <string name="nomeo_LI">Nome:</string>
+</resources>
