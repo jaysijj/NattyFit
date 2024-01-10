@@ -23,10 +23,6 @@ public class percGord extends AppCompatActivity {
     private RadioButton radioButton;
     private DatabaseHelper dbHelper;
 
-
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
